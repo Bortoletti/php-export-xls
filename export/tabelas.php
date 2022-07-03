@@ -9,6 +9,7 @@ $sql = file_get_contents( './sql/' . $queryp );
 header( "Content-type: application/x-msexcel" );
 header( 'Content-Disposition: attachment; filename="' . $export_file . '"' );
 
+include("../conf/_config.php");
 include("../conf/conexao.php");
 include("../conf/util.php");
 
