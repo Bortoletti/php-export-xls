@@ -7,3 +7,4 @@ Exportação XLS em PHP com banco de dados PostgreSQL.
 4) para exportar um resuldado de sua query crie um arquivo /export/sql/consulta.sql e execute /seusite/export/tabelas.php?p=consulta
 5) para obter outros resultados, repita o passo 4 com um outro arquivo.
 
+Utilize esse script como template, ajuste a sua necessidade.
