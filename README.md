@@ -8,3 +8,6 @@ Exportação XLS em PHP com banco de dados PostgreSQL.
 5) para obter outros resultados, repita o passo 4 com um outro arquivo.
 
 Utilize esse script como template, ajuste a sua necessidade.
+
+http://localhost/php-export-xls/export/tabelas.php?q=usuarios
+
