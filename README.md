@@ -1,4 +1,4 @@
-# template-php-postgresql
+# php-export-xls
 Exportação XLS em PHP com banco de dados PostgreSQL.
 
 1) configure as variaveis para a aplicação em /conf/_config.php
